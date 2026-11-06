@@ -1,0 +1,16 @@
+# 手势魔法师系统依赖
+# 安装命令: pip install -r requirements.txt
+
+# 核心依赖
+pygame>=2.5.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# 可选依赖（用于增强功能）
+# python-speechrecognition>=3.10.0  # 语音识别（未来扩展）
+# pyttsx3>=2.90           # 语音合成（未来扩展）
+
+# 开发依赖
+# autopep8>=2.0.0         # 代码格式化
+# pylint>=3.0.0           # 代码检查
